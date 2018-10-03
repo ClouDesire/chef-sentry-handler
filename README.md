@@ -30,3 +30,8 @@ include_recipe 'chef-sentry-handler::default'
 
 [0]: https://docs.chef.io/handlers.html
 [1]: https://getsentry.com
+
+## Contributors
+
+* [Noah Kantrowitz](https://github.com/coderanger)
+* [John Bellone](https://github.com/johnbellone)
