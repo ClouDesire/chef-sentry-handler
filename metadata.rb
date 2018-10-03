@@ -20,5 +20,5 @@ supports 'windows'
 
 depends 'chef_handler', '~> 2.0'
 
-issues_url 'https://github.com/cloudesire/chef-sentry-handler/issues'
-source_url 'https://github.com/cloudesire/chef-sentry-handler'
+issues_url 'https://github.com/cloudesire/sentry-handler/issues'
+source_url 'https://github.com/cloudesire/sentry-handler'
