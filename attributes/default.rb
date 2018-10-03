@@ -15,7 +15,7 @@
 # limitations under the License.
 #
 
-default['sentry']['options']['dsn'] = nil
+default['sentry']['options']['dsn'] = node['sentry']['dsn']
 default['sentry']['options']['ssl_verify'] = true
 default['sentry']['options']['environment'] = node.chef_environment
 
